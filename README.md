@@ -1,8 +1,9 @@
-Spaced Repetition Flashcard App
-🚀 Overview
+SPACED REPETITION FLASHCARD APP
+
+OVERVIEW: 
 The Spaced Repetition Flashcard App is a full-stack web application designed to help learners efficiently memorize and retain information. By using a spaced repetition algorithm, the app schedules flashcards for review at optimal intervals, boosting long-term memory retention.
 
-🎯 Objectives
+OBJECTIVES:
 Flashcard creation with question/answer input.
 
 Spaced repetition scheduling using SM-2 or Leitner system.
@@ -13,16 +14,14 @@ Progress tracking via dashboard (retention rate, streaks, mastery).
 
 Authentication for personalized learning.
 
-🛠️ Tech Stack
+TECHSTACK:
 Frontend: React
 
-Backend: Node.js + Express
+Backend: Node.js
 
-Database: MongoDB Atlas
+Database: MongoDB 
 
-Deployment: GitHub Pages / Vercel (frontend), Render / Railway (backend)
-
-📊 Features
+FEATURES
 Create, edit, and delete flashcards.
 
 Algorithm-driven scheduling for efficient learning.
@@ -32,3 +31,6 @@ Dashboard with charts and statistics.
 Gamification: streaks, badges, and progress milestones.
 
 Cloud sync for cross-device access.
+
+To access kindly use this link below:
+https://spaced-repetition-akila0805.bolt.host
